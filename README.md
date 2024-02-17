@@ -1,0 +1,1 @@
+# catppuccin-zed-themes
